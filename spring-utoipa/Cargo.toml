@@ -5,9 +5,10 @@ version = "0.0.1"
 edition = "2024"
 license = "MIT"
 authors = ["NikSne"]
-categories = ["openapi", "spring"]
+categories = ["web-programming"]
+keywords = ["openapi", "spring"]
 homepage = "https://spring-rs.github.io/"
-repository = "https://github.com/spring-rs/spring-rs/"
+repository = "https://github.com/spring-rs/contrib-plugins/"
 
 [features]
 default = ["preserve_order", "preserve_path_order"]
