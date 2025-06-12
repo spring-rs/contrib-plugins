@@ -31,7 +31,7 @@ preserve_path_order = []
 rc_schema = ["utoipa/rc_schema"]
 config = ["utoipa/config"]
 
-# EXPERIEMENTAL! use with cauntion
+# EXPERIEMENTAL! use with caution
 auto_into_responses = ["utoipa/auto_into_responses"]
 
 # OpenAPI visualizers
